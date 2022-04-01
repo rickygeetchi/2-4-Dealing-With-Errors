@@ -13,6 +13,7 @@
   "author": "Roderick Smith",
   "license": "ISC",
   "dependencies": {
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "prompt-sync": "^4.2.0"
   }
 }
